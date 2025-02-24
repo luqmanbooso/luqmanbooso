@@ -2,11 +2,9 @@
 <h3 align="center">A passionate frontend developer from Sri Lanka🤩</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=luqmanbooso&label=Profile%20views&color=0e75b6&style=flat" alt="luqmanbooso" /> </p>
-<div align="center" width="50">
-
-<img src="https://i.imgur.com/dTYwdG1.gif" alt="Welcome!" width="300"/>
-
-</div>
+<div align=center>
+        <img src="https://readme-typing-svg.herokuapp.com?color=%236FDA44&size=32&center=true&vCenter=true&width=600&height=50&lines=Hi+there+I'm+Fathy+%F0%9F%91%8B;Computer+Science+Student;Back-End+Engineer;Problem+Solver;Freelancer;Open-Source+Enthusiast" alt="Headline" />
+    </div>
 
 - 🔭 I’m currently working on **Mern Stack**
 
