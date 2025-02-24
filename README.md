@@ -2,7 +2,11 @@
 <h3 align="center">A passionate frontend developer from Sri Lanka🤩</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=luqmanbooso&label=Profile%20views&color=0e75b6&style=flat" alt="luqmanbooso" /> </p>
+<div align="center" width="50">
 
+<img src="https://i.imgur.com/dTYwdG1.gif" alt="Welcome!" width="300"/>
+
+</div>
 
 - 🔭 I’m currently working on **Mern Stack**
 
