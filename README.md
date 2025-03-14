@@ -30,5 +30,5 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=luqmanbooso&" alt="luqmanbooso" /></p>
 📊 GitHub Stats:
-<div align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sakithliyanage&layout=compact&theme=radical" alt="Top Languages" /> <img src="https://github-readme-stats.vercel.app/api?username=sakithliyanage&show_icons=true&theme=radical" alt="GitHub Stats" /> <img src="https://github-readme-streak-stats.herokuapp.com/?user=sakithliyanage&theme=radical" alt="GitHub Streak" /> </div>
+<div align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=luqmanbooso&layout=compact&theme=radical" alt="Top Languages" /> <img src="https://github-readme-stats.vercel.app/api?username=luqmanbooso&show_icons=true&theme=radical" alt="GitHub Stats" /> <img src="https://github-readme-streak-stats.herokuapp.com/?user=luqmanbooso&theme=radical" alt="GitHub Streak" /> </div>
 
