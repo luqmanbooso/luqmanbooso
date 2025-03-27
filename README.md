@@ -1,7 +1,9 @@
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=40&pause=1000&color=FFFFFF&center=true&vCenter=true&random=false&width=600&height=100&lines=Hi+%F0%9F%91%8B%2C+I'm+Luqman+Booso;Software+Developer;Problem+Solver;Creative+Thinker" alt="Typing SVG" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Luqman%20Booso&fontSize=70&fontAlignY=35&animation=twinkling&fontColor=white" width="100%"/>
   
-  <h3 align="center">A passionate frontend developer from Sri Lanka 🇱🇰✨</h3>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=35&pause=1000&color=FFFFFF&center=true&vCenter=true&random=false&width=600&height=70&lines=Frontend+Developer;Problem+Solver;Creative+Thinker;Code+Enthusiast" alt="Typing SVG" />
+  
+  <h3 align="center">✨ Building digital experiences from Sri Lanka 🇱🇰 ✨</h3>
   
   <img src="https://komarev.com/ghpvc/?username=luqmanbooso&label=Profile%20views&color=0e75b6&style=for-the-badge" alt="profile views" />
   <br>
@@ -13,10 +15,13 @@
 
 <br>
 
+<!-- Github Snake Animation -->
 <div align="center">
-  <a href="https://git.io/streak-stats">
-    <img src="https://streak-stats.demolab.com?user=luqmanbooso&theme=radical&border_radius=10" alt="GitHub Streak" />
-  </a>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/luqmanbooso/luqmanbooso/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/luqmanbooso/luqmanbooso/output/github-contribution-grid-snake.svg">
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/luqmanbooso/luqmanbooso/output/github-contribution-grid-snake.svg">
+  </picture>
 </div>
 
 ## 🏆 GitHub Trophies
@@ -25,14 +30,28 @@
   <img src="https://github-profile-trophy.vercel.app/?username=luqmanbooso&theme=radical&row=1&column=7&margin-w=15&margin-h=15" alt="GitHub Trophies" />
 </div>
 
-## 👨‍💻 About Me
+<br>
 
-- 🔭 I'm currently working on **MERN Stack Applications**
-- 🌱 I'm learning **MongoDB, Express, React, Node.js, Java, and Python**
-- 👯 I'm looking to collaborate on **innovative projects**
+<div align="center">
+  <a href="https://git.io/streak-stats">
+    <img src="https://streak-stats.demolab.com?user=luqmanbooso&theme=radical&border_radius=10" alt="GitHub Streak" />
+  </a>
+</div>
+
+## ✨ About Me
+
+<div align="center">
+  <img align="right" height="250" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcjN6dmVrdG40eHFsdGl6anZ4MGo3cmsxeHg1c2tsaDJ5dnUzbXRmMCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif" />
+</div>
+
+- 🚀 I'm currently working on **MERN Stack Applications**
+- 🧠 I'm learning **MongoDB, Express, React, Node.js, Java, and Python**
+- 👥 I'm looking to collaborate on **innovative projects**
 - 💬 Ask me about **OOP (Java), React, and SE fundamentals**
-- 📫 How to reach me: **luqmanbooso@gmail.com**
-- ⚡ Fun fact: **I'm a nightcrawler 😴😂**
+- 📧 How to reach me: **luqmanbooso@gmail.com**
+- 🎮 Fun fact: **I'm a nightcrawler 😴 coding through the night 💻**
+
+<br>
 
 ## 🌟 Tech Stack
 
@@ -59,17 +78,17 @@
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=luqmanbooso&show_icons=true&theme=radical&border_radius=10&hide_border=true" height="180" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=luqmanbooso&layout=compact&theme=radical&border_radius=10&hide_border=true" height="180" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=luqmanbooso&show_icons=true&theme=radical&border_radius=10&hide_border=true&bg_color=0D1117" height="180" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=luqmanbooso&layout=compact&theme=radical&border_radius=10&hide_border=true&bg_color=0D1117" height="180" alt="Top Languages" />
 </div>
 
-<br>
+## 🎯 Current Focus
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=luqmanbooso&theme=tokyo-night&hide_border=true" width="100%" alt="Contribution Graph">
+  <img src="https://skillicons.dev/icons?i=react,nodejs,mongodb,express,tailwind,redux&perline=6" alt="Current Focus" />
 </div>
 
-## 🤝 Connect with me
+## 🌐 Connect with me
 
 <div align="center">
   <a href="https://linkedin.com/in/luqman-booso" target="blank">
@@ -84,6 +103,11 @@
 </div>
 
 <br>
+
+<div align="center">
+  <img height="120" alt="Thanks for visiting me" width="100%" src="https://raw.githubusercontent.com/BrunnerLivio/brunnerlivio/master/images/marquee.svg" />
+  <br />
+</div>
 
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" width="100%" />
