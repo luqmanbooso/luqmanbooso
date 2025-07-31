@@ -1,15 +1,15 @@
 <div align="center">
 <img 
-  src="https://capsule-render.vercel.app/api?type=waving&color=0:43e97b,100:38f9d7&height=250&section=header
+  src="https://capsule-render.vercel.app/api?type=transparent&color=auto&height=140&section=header
   &text=Luqman%20Booso
-  &fontSize=72
-  &fontColor=ffffff
-  &animation=twinkling
+  &fontSize=50
+  &fontColor=222831
+  &animation=fadeIn
   &desc=Full%20Stack%20Developer%20%7C%20Software%20Engineer
   &descAlign=50
-  &descAlignY=80
-  &descFontSize=28
-  &descFontColor=ffffff" 
+  &descAlignY=70
+  &descFontSize=18
+  &descFontColor=393e46" 
   width="100%"
 />
 
