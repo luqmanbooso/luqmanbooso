@@ -44,12 +44,13 @@
   <img align="right" height="250" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcjN6dmVrdG40eHFsdGl6anZ4MGo3cmsxeHg1c2tsaDJ5dnUzbXRmMCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif" />
 </div>
 
-- 🚀 I'm currently working on **MERN Stack Applications**
-- 🧠 I'm learning **MongoDB, Express, React, Node.js, Java, and Python**
-- 👥 I'm looking to collaborate on **innovative projects**
-- 💬 Ask me about **OOP (Java), React, and SE fundamentals**
+- 🚀 I'm currently working on to not be an extinct developer, always up for a new task(^///^)
+- 🧠 I'm learning MERN,Pytho...........|||||| it never ends
+- 👥 Let’s create something awesome together, fork it,clone it Just want it BETTER
+- 😏OOP,DSA,DBMS Im IN
 - 📧 How to reach me: **luqmanbooso@gmail.com**
-- 🎮 Fun fact: **I'm a nightcrawler 😴 coding through the night 💻**
+- 🎮 Fun fact: I am boring until u know 01101101 01100101
+- // That's just "me" in binary😂😂😂
 
 <br>
 
