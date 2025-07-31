@@ -3,7 +3,7 @@
   
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=35&pause=1000&color=FFFFFF&center=true&vCenter=true&random=false&width=600&height=70&lines=Frontend+Developer;Problem+Solver;Creative+Thinker;Code+Enthusiast" alt="Typing SVG" />
   
-  <h3 align="center">✨ Building digital experiences from Sri Lanka 🇱🇰 ✨</h3>
+  <h3 align="center">✨Bringing Ideals to Reality✨</h3>
   
   <img src="https://komarev.com/ghpvc/?username=luqmanbooso&label=Profile%20views&color=0e75b6&style=for-the-badge" alt="profile views" />
   <br>
@@ -15,14 +15,6 @@
 
 <br>
 
-<!-- Github Snake Animation -->
-<div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/luqmanbooso/luqmanbooso/output/github-contribution-grid-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/luqmanbooso/luqmanbooso/output/github-contribution-grid-snake.svg">
-    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/luqmanbooso/luqmanbooso/output/github-contribution-grid-snake.svg">
-  </picture>
-</div>
 
 ## 🏆 GitHub Trophies
 
@@ -109,10 +101,7 @@
 <br>
 
 <div align="center">
-  <img height="120" alt="Thanks for visiting me" width="100%" src="https://raw.githubusercontent.com/BrunnerLivio/brunnerlivio/master/images/marquee.svg" />
-  <br />
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=100&section=footer&text=Thanks%20for%20visiting!%20👋&fontSize=36&fontColor=ffffff" width="100%"/>
 </div>
 
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" width="100%" />
-</div>
+
