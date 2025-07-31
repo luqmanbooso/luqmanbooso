@@ -28,9 +28,8 @@
 </div>
   <br>
   
-  <a href="https://wakatime.com/@luqmanbooso">
-    <img src="https://wakatime.com/badge/user/luqmanbooso.svg" alt="Total time coded" />
-  </a>
+ <img src="https://github-readme-stats.vercel.app/api?username=luqmanbooso&show_icons=true&theme=radical" alt="GitHub stats" />
+
 </div>
 
 <br>
