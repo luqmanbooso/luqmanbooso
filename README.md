@@ -1,6 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Luqman%20Booso&fontSize=70&fontAlignY=35&animation=twinkling&fontColor=white" width="100%"/>
-  
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Luqman%20Booso&desc=Full%20Stack%20Developer%20%7C%20Software%20Engineer&fontSize=60&fontAlignY=35&animation=twinkling&fontColor=white&descAlignY=50&descAlign=60&descFontColor=white" width="100%"/>
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=35&pause=1000&color=FFFFFF&center=true&vCenter=true&random=false&width=600&height=70&lines=Frontend+Developer;Problem+Solver;Creative+Thinker;Code+Enthusiast" alt="Typing SVG" />
   
   <h3 align="center">✨Bringing Ideals to Reality✨</h3>
