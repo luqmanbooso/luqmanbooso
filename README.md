@@ -28,8 +28,6 @@
 </div>
   <br>
   
- <img src="https://github-readme-stats.vercel.app/api?username=luqmanbooso&show_icons=true&theme=radical" alt="GitHub stats" />
-
 </div>
 
 <br>
