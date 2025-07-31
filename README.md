@@ -45,7 +45,6 @@
 - 🧠 I'm learning MERN,Pytho...........|||||| it never ends
 - 👥 Let’s create something awesome together, fork it,clone it Just want it BETTER
 - 😏OOP,DSA,DBMS Im IN
-- 📧 How to reach me: **luqmanbooso@gmail.com**
 - 🎮 Fun fact: I am boring until u know 01101101 01100101
 - // That's just "me" in binary😂😂😂
 
