@@ -1,6 +1,5 @@
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=soft&color=232526,414345&height=140&section=header&text=Luqman%20Booso&fontSize=50&fontColor=ffffff&animation=fadeIn&desc=Full%20Stack%20Developer%20%7C%20Software%20Engineer&descAlign=50&descAlignY=90&descFontSize=18&descFontColor=ffffff" width="100%"/>
-</div>
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=35&pause=1000&color=FFFFFF&center=true&vCenter=true&random=false&width=600&height=70&lines=Frontend+Developer;Problem+Solver;Creative+Thinker;Code+Enthusiast" alt="Typing SVG" />
   
@@ -112,5 +111,6 @@
   <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=100&section=footer&text=Thanks%20for%20visiting!%20👋&fontSize=36&fontColor=ffffff" width="100%"/>
 </div>
 
+</div>
 
 
