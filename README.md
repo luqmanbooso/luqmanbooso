@@ -1,5 +1,4 @@
-<div align="center">
-<img src="https://capsule-render.vercel.app/api?type=soft&color=auto&height=140&section=header&text=Luqman%20Booso&fontSize=50&fontColor=222831&animation=fadeIn&desc=Full%20Stack%20Developer%20%7C%20Software%20Engineer&descAlign=50&descAlignY=90&descFontSize=18&descFontColor=393e46" width="100%"/>
+<div align="center"><img src="https://capsule-render.vercel.app/api?type=soft&color=auto&height=140&section=header&text=Luqman%20Booso&fontSize=50&fontColor=ffffff&animation=fadeIn&desc=Full%20Stack%20Developer%20%7C%20Software%20Engineer&descAlign=50&descAlignY=90&descFontSize=18&descFontColor=ffffff" width="100%"/>
 
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=35&pause=1000&color=FFFFFF&center=true&vCenter=true&random=false&width=600&height=70&lines=Frontend+Developer;Problem+Solver;Creative+Thinker;Code+Enthusiast" alt="Typing SVG" />
   
