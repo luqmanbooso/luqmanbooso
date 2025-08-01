@@ -38,8 +38,7 @@
 ## ✨ About Me
 
 <div align="center">
-  <img align="right" height="250" src="[https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcjN6dmVrdG40eHFsdGl6anZ4MGo3cmsxeHg1c2tsaDJ5dnUzbXRmMCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif](https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExeGd2ZWJ0MGgxNzFtdWpoOWJpYWRldzdvcjIxd2x4ZGZqMjA1bW1yaCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/ES4Vcv8zWfIt2/giphy.gif)" />
-  <img align="right" height="250" src="" />
+  <img align="right" height="250" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExeGd2ZWJ0MGgxNzFtdWpoOWJpYWRldzdvcjIxd2x4ZGZqMjA1bW1yaCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/ES4Vcv8zWfIt2/giphy.gif" />
 </div>
 
 - 🚀 I'm currently working on to not be an extinct developer, always up for a new task(^///^)
